@@ -2,7 +2,10 @@ package com.interview.repeat;
 
 import java.util.HashSet;
 import java.util.Set;
-//class
+// 1 
+// 2
+// 99
+// 100
 public class DiplicatesArray {
 
 	public static void duplicateNumInArray() {
