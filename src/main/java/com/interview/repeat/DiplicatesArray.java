@@ -2,7 +2,7 @@ package com.interview.repeat;
 
 import java.util.HashSet;
 import java.util.Set;
-
+//class
 public class DiplicatesArray {
 
 	public static void duplicateNumInArray() {
