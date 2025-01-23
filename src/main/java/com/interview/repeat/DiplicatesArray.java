@@ -14,6 +14,7 @@ public class DiplicatesArray {
 				if(a[i] == a[j]) {
 					duplicateValue.add(a[i]);
 				}
+				
 			}
 		}
 		System.out.println(duplicateValue);
