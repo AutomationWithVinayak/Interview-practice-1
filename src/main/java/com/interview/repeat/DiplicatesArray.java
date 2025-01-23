@@ -2,10 +2,11 @@ package com.interview.repeat;
 
 import java.util.HashSet;
 import java.util.Set;
-// 1 
-// 2
-// 99
-// 100
+//1 
+//2
+//99
+//100
+
 public class DiplicatesArray {
 
 	public static void duplicateNumInArray() {
@@ -17,6 +18,7 @@ public class DiplicatesArray {
 				if(a[i] == a[j]) {
 					duplicateValue.add(a[i]);
 				}
+				
 			}
 		}
 		System.out.println(duplicateValue);
